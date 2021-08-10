@@ -4,12 +4,11 @@
 <p align="center"><b>To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail .</b></p>
 
 ------
-<h2 align="center">OBJECTIVE OF THE TASK</h2> 
-
-
-
-<p align="center"><b>To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail .</b></p>
-
+<summary><h2 align="center">ＯBJECTIVE</h2></summary><br>
+<details>
+### The task is: 
+- Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail
+</details>
 
 
 ----
