@@ -1,19 +1,19 @@
-<h1 align="center">Intern Attendence</h1> 
-
------
-<p align="center"><b>To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail .</b></p>
-
-------
-<summary><h2 align="center">ＯBJECTIVE</h2></summary><br>
+<summary><h1 align="center">Intern Attendence</h1></summary><br> 
 <details>
-### The task is: 
-- Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail
+### detail :
+To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail.
 </details>
 
 
-----
+<summary><h2 align="center">ＯBJECTIVE</h2></summary><br>
+<details>
+### The task is: 
+- Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail.
+</details>
 
-<h2 align="center">TEST CASES</h2> 
+
+
+<h2 align="center">TEST CASES</h2>
 
 |Test Cases|Attempt|Analysis|
 |:----:|:-----:|:-----:|
