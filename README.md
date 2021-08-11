@@ -17,3 +17,10 @@
 |Test Case 3| To search for assignment subject | secondly we need to filter mail with  assignment subject
 |Test Case 4| To filter the mail received in 3rd step  from particular intern name | filter mail from intern name
 |Test Case 5| To filter the mail received in 4th step  for current date | filter mail from intern name for current date
+
+
+<h2 align="center">CONCLUSION</h2>
+<details>
+ 
+
+</details>
