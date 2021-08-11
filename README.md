@@ -1,9 +1,4 @@
-<summary><h1 align="center">Intern Attendence</h1></summary><br> 
-<details>
-### detail :
-To Create a script to mark attendence of interns on the  basis of status or queries recieved  on mail.
-</details>
-
+<h1 align="center">Intern Attendence</h1>
 
 <summary><h2 align="center">ＯBJECTIVE</h2></summary><br>
 <details>
